@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, everybody 👋
+### - I’m currently working on ... lots of things
 <!--
 **pavlo-serhiichuk/pavlo-serhiichuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
